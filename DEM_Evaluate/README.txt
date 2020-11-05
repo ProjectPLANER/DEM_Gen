@@ -8,12 +8,12 @@ https://www.learnopencv.com/install-opencv-4-on-ubuntu-18-04/
 
 -=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 To Build: 
-while in DEM_Generation/build directory:
+while in DEM_Evaluate/build directory:
 	make
 
 To run:
-while in DEM_Generation directory:
-	./build/quickTest
+while in DEM_Evaluate directory:
+	./build/dem_eval
 
 -=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 Map list:
